@@ -6,6 +6,10 @@ An end-to-end Data Engineering project that builds a cloud-based analytics platf
 
 The project demonstrates a production-oriented data pipeline covering API ingestion, historical snapshots, AWS data lake architecture, transformation with dbt, orchestration with Airflow, data quality validation, and an interactive analytics dashboard.
 
+<p align="center">
+  <img src="docs/a7x.jpg" alt="A7X Music Performance Analytics Architecture" width="100%">
+</p>
+
 ---
 
 ## Project Overview
