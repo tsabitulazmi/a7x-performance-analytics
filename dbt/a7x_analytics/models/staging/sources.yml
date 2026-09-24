@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: a7x_music_analytics
+    database: awsdatacatalog
+    schema: a7x_music_analytics
+    tables:
+      - name: spotify
+      - name: youtube

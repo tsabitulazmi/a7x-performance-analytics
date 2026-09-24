@@ -1,0 +1,90 @@
+song_id,album_id,artist_name,album_name,song_name,track_number,release_date,version_type,is_primary_version
+A7X-01-T01,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,To End the Rapture,1,2001-01-31,studio_album,True
+A7X-01-T02,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,Turn the Other Way,2,2001-01-31,studio_album,True
+A7X-01-T03,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,Darkness Surrounding,3,2001-01-31,studio_album,True
+A7X-01-T04,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,The Art of Subconscious Illusion,4,2001-01-31,studio_album,True
+A7X-01-T05,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,We Come Out at Night,5,2001-01-31,studio_album,True
+A7X-01-T06,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,Lips of Deceit,6,2001-01-31,studio_album,True
+A7X-01-T07,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,Warmness on the Soul,7,2001-01-31,studio_album,True
+A7X-01-T08,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,An Epic of Time Wasted,8,2001-01-31,studio_album,True
+A7X-01-T09,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,Breaking Their Hold,9,2001-01-31,studio_album,True
+A7X-01-T10,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,Forgotten Faces,10,2001-01-31,studio_album,True
+A7X-01-T11,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,Thick and Thin,11,2001-01-31,studio_album,True
+A7X-01-T12,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,Streets,12,2001-01-31,studio_album,True
+A7X-01-T13,A7X-01,Avenged Sevenfold,Sounding the Seventh Trumpet,Shattered by Broken Dreams,13,2001-01-31,studio_album,True
+A7X-02-T01,A7X-02,Avenged Sevenfold,Waking the Fallen,Waking the Fallen,1,2003-08-26,studio_album,True
+A7X-02-T02,A7X-02,Avenged Sevenfold,Waking the Fallen,Unholy Confessions,2,2003-08-26,studio_album,True
+A7X-02-T03,A7X-02,Avenged Sevenfold,Waking the Fallen,Chapter Four,3,2003-08-26,studio_album,True
+A7X-02-T04,A7X-02,Avenged Sevenfold,Waking the Fallen,Remenissions,4,2003-08-26,studio_album,True
+A7X-02-T05,A7X-02,Avenged Sevenfold,Waking the Fallen,Desecrate Through Reverence,5,2003-08-26,studio_album,True
+A7X-02-T06,A7X-02,Avenged Sevenfold,Waking the Fallen,Eternal Rest,6,2003-08-26,studio_album,True
+A7X-02-T07,A7X-02,Avenged Sevenfold,Waking the Fallen,Second Heartbeat,7,2003-08-26,studio_album,True
+A7X-02-T08,A7X-02,Avenged Sevenfold,Waking the Fallen,Radiant Eclipse,8,2003-08-26,studio_album,True
+A7X-02-T09,A7X-02,Avenged Sevenfold,Waking the Fallen,I Won't See You Tonight Part 1,9,2003-08-26,studio_album,True
+A7X-02-T10,A7X-02,Avenged Sevenfold,Waking the Fallen,I Won't See You Tonight Part 2,10,2003-08-26,studio_album,True
+A7X-02-T11,A7X-02,Avenged Sevenfold,Waking the Fallen,Clairvoyant Disease,11,2003-08-26,studio_album,True
+A7X-02-T12,A7X-02,Avenged Sevenfold,Waking the Fallen,And All Things Will End,12,2003-08-26,studio_album,True
+A7X-03-T01,A7X-03,Avenged Sevenfold,City of Evil,Beast and the Harlot,1,2005-06-06,studio_album,True
+A7X-03-T02,A7X-03,Avenged Sevenfold,City of Evil,Burn It Down,2,2005-06-06,studio_album,True
+A7X-03-T03,A7X-03,Avenged Sevenfold,City of Evil,Blinded in Chains,3,2005-06-06,studio_album,True
+A7X-03-T04,A7X-03,Avenged Sevenfold,City of Evil,Bat Country,4,2005-06-06,studio_album,True
+A7X-03-T05,A7X-03,Avenged Sevenfold,City of Evil,Trashed and Scattered,5,2005-06-06,studio_album,True
+A7X-03-T06,A7X-03,Avenged Sevenfold,City of Evil,Seize the Day,6,2005-06-06,studio_album,True
+A7X-03-T07,A7X-03,Avenged Sevenfold,City of Evil,Sidewinder,7,2005-06-06,studio_album,True
+A7X-03-T08,A7X-03,Avenged Sevenfold,City of Evil,The Wicked End,8,2005-06-06,studio_album,True
+A7X-03-T09,A7X-03,Avenged Sevenfold,City of Evil,Strength of the World,9,2005-06-06,studio_album,True
+A7X-03-T10,A7X-03,Avenged Sevenfold,City of Evil,Betrayed,10,2005-06-06,studio_album,True
+A7X-03-T11,A7X-03,Avenged Sevenfold,City of Evil,M.I.A.,11,2005-06-06,studio_album,True
+A7X-04-T01,A7X-04,Avenged Sevenfold,Avenged Sevenfold,Critical Acclaim,1,2007-10-30,studio_album,True
+A7X-04-T02,A7X-04,Avenged Sevenfold,Avenged Sevenfold,Almost Easy,2,2007-10-30,studio_album,True
+A7X-04-T03,A7X-04,Avenged Sevenfold,Avenged Sevenfold,Scream,3,2007-10-30,studio_album,True
+A7X-04-T04,A7X-04,Avenged Sevenfold,Avenged Sevenfold,Afterlife,4,2007-10-30,studio_album,True
+A7X-04-T05,A7X-04,Avenged Sevenfold,Avenged Sevenfold,Gunslinger,5,2007-10-30,studio_album,True
+A7X-04-T06,A7X-04,Avenged Sevenfold,Avenged Sevenfold,Unbound (The Wild Ride),6,2007-10-30,studio_album,True
+A7X-04-T07,A7X-04,Avenged Sevenfold,Avenged Sevenfold,Brompton Cocktail,7,2007-10-30,studio_album,True
+A7X-04-T08,A7X-04,Avenged Sevenfold,Avenged Sevenfold,Lost,8,2007-10-30,studio_album,True
+A7X-04-T09,A7X-04,Avenged Sevenfold,Avenged Sevenfold,A Little Piece of Heaven,9,2007-10-30,studio_album,True
+A7X-04-T10,A7X-04,Avenged Sevenfold,Avenged Sevenfold,Dear God,10,2007-10-30,studio_album,True
+A7X-05-T01,A7X-05,Avenged Sevenfold,Nightmare,Nightmare,1,2010-07-27,studio_album,True
+A7X-05-T02,A7X-05,Avenged Sevenfold,Nightmare,Welcome to the Family,2,2010-07-27,studio_album,True
+A7X-05-T03,A7X-05,Avenged Sevenfold,Nightmare,Danger Line,3,2010-07-27,studio_album,True
+A7X-05-T04,A7X-05,Avenged Sevenfold,Nightmare,Buried Alive,4,2010-07-27,studio_album,True
+A7X-05-T05,A7X-05,Avenged Sevenfold,Nightmare,Natural Born Killer,5,2010-07-27,studio_album,True
+A7X-05-T06,A7X-05,Avenged Sevenfold,Nightmare,So Far Away,6,2010-07-27,studio_album,True
+A7X-05-T07,A7X-05,Avenged Sevenfold,Nightmare,God Hates Us,7,2010-07-27,studio_album,True
+A7X-05-T08,A7X-05,Avenged Sevenfold,Nightmare,Victim,8,2010-07-27,studio_album,True
+A7X-05-T09,A7X-05,Avenged Sevenfold,Nightmare,Tonight the World Dies,9,2010-07-27,studio_album,True
+A7X-05-T10,A7X-05,Avenged Sevenfold,Nightmare,Fiction,10,2010-07-27,studio_album,True
+A7X-05-T11,A7X-05,Avenged Sevenfold,Nightmare,Save Me,11,2010-07-27,studio_album,True
+A7X-06-T01,A7X-06,Avenged Sevenfold,Hail to the King,Shepherd of Fire,1,2013-08-23,studio_album,True
+A7X-06-T02,A7X-06,Avenged Sevenfold,Hail to the King,Hail to the King,2,2013-08-23,studio_album,True
+A7X-06-T03,A7X-06,Avenged Sevenfold,Hail to the King,Doing Time,3,2013-08-23,studio_album,True
+A7X-06-T04,A7X-06,Avenged Sevenfold,Hail to the King,This Means War,4,2013-08-23,studio_album,True
+A7X-06-T05,A7X-06,Avenged Sevenfold,Hail to the King,Requiem,5,2013-08-23,studio_album,True
+A7X-06-T06,A7X-06,Avenged Sevenfold,Hail to the King,Crimson Day,6,2013-08-23,studio_album,True
+A7X-06-T07,A7X-06,Avenged Sevenfold,Hail to the King,Heretic,7,2013-08-23,studio_album,True
+A7X-06-T08,A7X-06,Avenged Sevenfold,Hail to the King,Coming Home,8,2013-08-23,studio_album,True
+A7X-06-T09,A7X-06,Avenged Sevenfold,Hail to the King,Planets,9,2013-08-23,studio_album,True
+A7X-06-T10,A7X-06,Avenged Sevenfold,Hail to the King,Acid Rain,10,2013-08-23,studio_album,True
+A7X-07-T01,A7X-07,Avenged Sevenfold,The Stage,The Stage,1,2016-10-28,studio_album,True
+A7X-07-T02,A7X-07,Avenged Sevenfold,The Stage,Paradigm,2,2016-10-28,studio_album,True
+A7X-07-T03,A7X-07,Avenged Sevenfold,The Stage,Sunny Disposition,3,2016-10-28,studio_album,True
+A7X-07-T04,A7X-07,Avenged Sevenfold,The Stage,God Damn,4,2016-10-28,studio_album,True
+A7X-07-T05,A7X-07,Avenged Sevenfold,The Stage,Creating God,5,2016-10-28,studio_album,True
+A7X-07-T06,A7X-07,Avenged Sevenfold,The Stage,Angels,6,2016-10-28,studio_album,True
+A7X-07-T07,A7X-07,Avenged Sevenfold,The Stage,Simulation,7,2016-10-28,studio_album,True
+A7X-07-T08,A7X-07,Avenged Sevenfold,The Stage,Higher,8,2016-10-28,studio_album,True
+A7X-07-T09,A7X-07,Avenged Sevenfold,The Stage,Roman Sky,9,2016-10-28,studio_album,True
+A7X-07-T10,A7X-07,Avenged Sevenfold,The Stage,Fermi Paradox,10,2016-10-28,studio_album,True
+A7X-07-T11,A7X-07,Avenged Sevenfold,The Stage,Exist,11,2016-10-28,studio_album,True
+A7X-08-T01,A7X-08,Avenged Sevenfold,Life Is but a Dream...,Game Over,1,2023-06-02,studio_album,True
+A7X-08-T02,A7X-08,Avenged Sevenfold,Life Is but a Dream...,Mattel,2,2023-06-02,studio_album,True
+A7X-08-T03,A7X-08,Avenged Sevenfold,Life Is but a Dream...,Nobody,3,2023-06-02,studio_album,True
+A7X-08-T04,A7X-08,Avenged Sevenfold,Life Is but a Dream...,We Love You,4,2023-06-02,studio_album,True
+A7X-08-T05,A7X-08,Avenged Sevenfold,Life Is but a Dream...,Cosmic,5,2023-06-02,studio_album,True
+A7X-08-T06,A7X-08,Avenged Sevenfold,Life Is but a Dream...,Beautiful,6,2023-06-02,studio_album,True
+A7X-08-T07,A7X-08,Avenged Sevenfold,Life Is but a Dream...,Easier,7,2023-06-02,studio_album,True
+A7X-08-T08,A7X-08,Avenged Sevenfold,Life Is but a Dream...,G,8,2023-06-02,studio_album,True
+A7X-08-T09,A7X-08,Avenged Sevenfold,Life Is but a Dream...,(O)rdinary,9,2023-06-02,studio_album,True
+A7X-08-T10,A7X-08,Avenged Sevenfold,Life Is but a Dream...,(D)eath,10,2023-06-02,studio_album,True
+A7X-08-T11,A7X-08,Avenged Sevenfold,Life Is but a Dream...,Life Is but a Dream...,11,2023-06-02,studio_album,True

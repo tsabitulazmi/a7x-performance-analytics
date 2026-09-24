@@ -1,0 +1,138 @@
+version: 2
+
+models:
+
+  - name: dim_song
+    description: "Song dimension containing A7X song metadata and platform identifiers."
+    columns:
+      - name: song_id
+        description: "Unique identifier for each song."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: album_id
+        description: "Album identifier."
+        data_tests:
+          - not_null
+
+      - name: song_name
+        description: "Song title."
+        data_tests:
+          - not_null
+
+  - name: dim_album
+    description: "Album dimension containing unique A7X albums."
+    columns:
+      - name: album_id
+        description: "Unique identifier for each album."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: album_name
+        description: "Album name."
+        data_tests:
+          - not_null
+
+  - name: fact_music_performance
+    description: "Song-level music performance metrics from Spotify and YouTube."
+    columns:
+      - name: song_id
+        description: "Song identifier."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: album_id
+        description: "Album identifier."
+        data_tests:
+          - not_null
+          
+      - name: engagement_count
+        description: "Total YouTube likes and comments for the song."
+        data_tests:
+          - not_null
+
+      - name: engagement_rate
+        description: "YouTube engagement rate calculated as (likes + comments) / views."
+        data_tests:
+          - not_null
+
+  - name: fct_song_performance_summary
+    description: "Dashboard-ready song-level performance metrics combining A7X song metadata with YouTube performance data."
+    columns:
+      - name: song_id
+        description: "Unique identifier for each song."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: album_id
+        description: "Album identifier."
+        data_tests:
+          - not_null
+
+      - name: song_name
+        description: "Song title."
+        data_tests:
+          - not_null
+
+      - name: album_name
+        description: "Album name."
+        data_tests:
+          - not_null
+
+      - name: engagement_count
+        description: "Total YouTube likes and comments for the song."
+        data_tests:
+          - not_null
+
+      - name: engagement_rate
+        description: "YouTube engagement rate calculated as (likes + comments) / views."
+        data_tests:
+          - not_null
+
+  - name: fct_album_performance_summary
+    description: "Album-level YouTube performance metrics aggregated from song-level performance data."
+    columns:
+      - name: album_id
+        description: "Unique identifier for each album."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: album_name
+        description: "Album name."
+        data_tests:
+          - not_null
+
+      - name: song_count
+        description: "Number of songs represented in the album."
+        data_tests:
+          - not_null
+
+      - name: total_views
+        description: "Total YouTube views across songs in the album."
+        data_tests:
+          - not_null
+
+      - name: total_likes
+        description: "Total YouTube likes across songs in the album."
+        data_tests:
+          - not_null
+
+      - name: total_comments
+        description: "Total YouTube comments across songs in the album."
+        data_tests:
+          - not_null
+
+      - name: total_engagement
+        description: "Total YouTube likes and comments across songs in the album."
+        data_tests:
+          - not_null
+
+      - name: engagement_rate
+        description: "Album-level engagement rate calculated as total engagement divided by total views."
+        data_tests:
+          - not_null

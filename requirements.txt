@@ -1,0 +1,7 @@
+pandas
+pyarrow
+requests
+python-dotenv
+boto3
+dbt-core
+dbt-athena
