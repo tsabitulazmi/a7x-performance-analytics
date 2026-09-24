@@ -2,6 +2,8 @@
 
 An end-to-end Data Engineering project that builds a cloud-based analytics platform for **Avenged Sevenfold (A7X)** using Spotify and YouTube data.
 
+**[🚀 Live Dashboard](https://a7x-performance-analytics.streamlit.app/)**
+
 The project demonstrates a production-oriented data pipeline covering API ingestion, historical snapshots, AWS data lake architecture, transformation with dbt, orchestration with Airflow, data quality validation, and an interactive analytics dashboard.
 
 ---
@@ -499,6 +501,8 @@ This is a **project-specific analytical definition** and should not be interpret
 # Dashboard
 
 The project includes an interactive **Streamlit + Plotly dashboard**.
+
+**[🚀 Open the Live Dashboard](https://a7x-performance-analytics.streamlit.app/)**
 
 The dashboard provides several analytical views.
 
