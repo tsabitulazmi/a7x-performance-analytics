@@ -355,17 +355,22 @@ if page == "Overview":
 
     st.subheader("Songs with Highest Engagement Rate")
 
-    st.info(
-        """
-        **Engagement Rate** measures audience interaction relative to total YouTube views.
+    with st.expander("ℹ️ What is Engagement Rate?"):
+        st.markdown(
+            """
+            **Engagement Rate** measures audience interaction relative to total YouTube views.
 
-        **Formula:** `(Likes + Comments) ÷ Views × 100`
+            **Formula:**
 
-        A higher percentage indicates more likes and comments relative to the video's
-        total views. This metric is defined specifically for this project and may differ
-        from engagement-rate definitions used by other analytics platforms.
-        """
-    )
+            `Engagement Rate = (Likes + Comments) / Views × 100`
+
+            A higher percentage means that a larger proportion of views resulted in
+            likes or comments.
+
+            **Note:** This is a project-specific metric. Other analytics platforms
+            may calculate engagement rate differently.
+            """
+        )
 
     top_engagement = (
         songs
